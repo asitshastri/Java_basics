@@ -1,0 +1,30 @@
+a
+This is a println method inside PrintWriter class
+100
+a
+50.5
+true
+a
+This is a println method inside PrintWriter class
+100
+a
+50.5
+true
+a
+This is a println method inside PrintWriter class
+100
+a
+50.5
+true
+a
+This is a println method inside PrintWriter class
+100
+a
+50.5
+true
+a
+This is a println method inside PrintWriter class
+100
+a
+50.5
+true
