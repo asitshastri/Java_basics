@@ -1,6 +1,6 @@
 /**
  * ImmutableString
- * Any concatinated object gets does not get printed as String being immutable and any operation on already created string is stroed in a different object created inside the heap
+ * Any concatinated object does not get printed as String being immutable and any operation on already created string is stroed in a different object created inside the heap
  */
 public class ImmutableString {
 
