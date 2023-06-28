@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 import java.util.function.Consumer;
-
-/**
- * Lambda_expression_forEach
- */
+@FunctionalInterface
+interface interface1{
+    void disp();
+}
 public class Lambda_expression_forEach {
     public static void main(String[] args) {
         ArrayList<Integer> al = new ArrayList<Integer>();
@@ -24,6 +24,10 @@ public class Lambda_expression_forEach {
         //consumer class stores the lambda expression 
         Consumer<Integer> method = (n)->System.out.println(n);
         al.forEach(method);
+
+        //Using functional interface to access above functional interface
+        interface1 it1 = ()-> System.out.println("display method inside interface1");
+        it1.disp();
     }
     
 }
