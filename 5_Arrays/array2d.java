@@ -20,7 +20,6 @@ public class array2d {
             }
             System.out.println("");
         }
-
         /*Shortcut method to create 2d array */
         int num2[][]={{1,2,3},{4,5,6},{7,8,9}};
         for(int i=0;i<num.length;i++)
